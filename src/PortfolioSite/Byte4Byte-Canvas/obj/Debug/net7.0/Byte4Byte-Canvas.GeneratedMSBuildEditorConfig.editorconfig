@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas
 build_property._RazorSourceGeneratorDebug = 
 
+[S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

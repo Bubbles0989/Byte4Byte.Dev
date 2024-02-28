@@ -47,3 +47,5 @@ S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas\obj\Debug\n
 S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas\obj\Debug\net7.0\Byte4Byte-Canvas.pdb
 S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas\obj\Debug\net7.0\Byte4Byte-Canvas.genruntimeconfig.cache
 S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas\obj\Debug\net7.0\ref\Byte4Byte-Canvas.dll
+S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas\bin\Debug\net7.0\package-lock.json
+S:\Github\Portfolio\Byte4Byte.Dev\src\PortfolioSite\Byte4Byte-Canvas\bin\Debug\net7.0\package.json

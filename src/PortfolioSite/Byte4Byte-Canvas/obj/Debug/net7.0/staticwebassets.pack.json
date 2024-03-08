@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\heart-balloon.svg",
+      "PackagePath": "staticwebassets\\img\\heart-balloon.svg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\left.svg",
+      "PackagePath": "staticwebassets\\img\\left.svg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\right.svg",
+      "PackagePath": "staticwebassets\\img\\right.svg"
+    },
+    {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

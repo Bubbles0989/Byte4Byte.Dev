@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Home/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Github/Portfolio/Byte4Byte.Dev/src/PortfolioSite/Byte4Byte-Canvas/Views/Shared/Error.cshtml]

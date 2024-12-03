@@ -1,0 +1,288 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #3efb25;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background: linear-gradient(-70deg, #7fb3e2, #a887c5, #eda8d1, #7fb3e2);
+  background-size: 400% 400%;
+  animation: gradient 12s ease infinite;
+  height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+* {
+  margin: 0;
+  padding: 0; 
+}
+
+.button:hover {
+  background-color: grey;
+  transition: .5s ease-in-out;
+}
+.button{
+  transition: .5s ease-in-out;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  transition: .2s;
+  color: pink;
+}
+
+.nav-link:active{
+  color: pink;
+}
+
+.navbar-brand{
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+}
+
+.navbar-brand:hover {
+  color: pink;
+  transition: .2s;
+}
+
+.navbar {
+  margin: 2%;
+  background: rgb(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 96%;
+}
+
+.content-background {
+  margin: 5%;
+  background-color: rgb(0, 0, 0, 0.5);
+  border: 5px, solid, black;
+  border-radius: 15px;
+}
+
+.home-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  padding-left: 15px;
+  padding-top: 17px;
+  padding-right: 15px;
+}
+
+.about-section {
+  text-align: center;
+  grid-column: 1/3;
+  grid-row: 1;
+  background-color: transparent;
+  color: white;
+  border-radius: 15px;
+}
+
+.animation-box-one {
+  grid-column: 1/3;
+  grid-row: 2;
+  background-color: transparent;
+  color: white;
+  border-radius: 15px;
+}
+
+.animation-box-two {
+  grid-column: 3;
+  grid-row: 1;
+  background-color: transparent;
+  color: white;
+  border-radius: 15px;
+}
+
+.carousel-section {
+  grid-column: 3;
+  grid-row: 2;
+  background-color: transparent;
+  color: white;
+  border-radius: 15px;
+}
+
+.arrow {
+  height: auto;
+  width: 50px;
+}
+
+.arrow-animation-left-arrow {
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-name: bounce-x-right;
+}
+
+@keyframes bounce-x-right {
+  0% {
+    transform: translateX(0);
+  }
+
+  50% {
+    transform: translateX(5px);    
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.arrow-animation-right-arrow {
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-name: bounce-x-left;
+}
+
+@keyframes bounce-x-left {
+  0% {
+    transform: translateX(0);
+  }
+
+  50% {
+    transform: translateX(-5px);    
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.about-section-header {
+  border: solid;
+  border-color: white;
+  align-self: center;
+}
+
+.about-section-body {
+  border: solid;
+  border-color: white;
+  align-self: center;
+  margin-top: 15px;
+}
+
+.heart-balloon {
+  height: auto;
+  width: 75px;
+}
+
+.heart-balloon-animation {
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-name: float;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-5px);    
+  }
+
+  75% {
+    transform: translateY(-5px);    
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.anime-list-container{
+  border: solid;
+  border-color: white;
+}
+
+.games-list-container{
+  border: solid;
+  border-color: white;
+}
+
+.details-container{
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  padding-left: 15px;
+  padding-top: 17px;
+  padding-right: 15px;
+}
+
+.games-info{
+  padding: 15px;
+}
+
+.anime-info{
+  padding: 15px;
+}
+
+.animation-box-details{
+  border: solid;
+  border-color: white;  
+  grid-column: 1;
+  border-right: dotted;
+}
+
+.animation-box-details-2{
+  border: solid;
+  border-color: white;  
+  grid-column: 2;  
+  border-left: dotted;
+}
+
+.project{
+  grid-row: 2;
+  padding: 15px;
+  border: solid;
+  border-color: white;  
+  margin: 15px;
+  width: 150px;
+  height: 150px;
+}
+
+.projects-container{
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  padding-left: 15px;
+  padding-top: 17px;
+  padding-right: 15px;
+}

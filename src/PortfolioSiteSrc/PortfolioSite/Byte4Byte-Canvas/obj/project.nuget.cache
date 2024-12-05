@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GMGFZ03v2t8=",
+  "dgSpecHash": "t7NnsBb8FMU=",
   "success": true,
-  "projectFilePath": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSite\\Byte4Byte-Canvas\\Byte4Byte-Canvas.csproj",
+  "projectFilePath": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\Byte4Byte-Canvas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bubbles\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Bubbles\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
@@ -30,6 +30,26 @@
     "C:\\Users\\Bubbles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RestSharp' 110.2.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4rr6-2v9v-wcpc",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
     {
       "code": "NU1903",
       "level": "Warning",

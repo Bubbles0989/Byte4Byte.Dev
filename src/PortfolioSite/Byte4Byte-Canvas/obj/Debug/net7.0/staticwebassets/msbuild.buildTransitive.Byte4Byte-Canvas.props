@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Byte4Byte-Canvas.props" />
-</Project>

@@ -183,14 +183,10 @@ body {
 }
 
 .about-section-header {
-  border: solid;
-  border-color: white;
   align-self: center;
 }
 
 .about-section-body {
-  border: solid;
-  border-color: white;
   align-self: center;
   margin-top: 15px;
 }
@@ -225,13 +221,9 @@ body {
 }
 
 .anime-list-container{
-  border: solid;
-  border-color: white;
 }
 
 .games-list-container{
-  border: solid;
-  border-color: white;
 }
 
 .details-container{
@@ -254,24 +246,16 @@ body {
 }
 
 .animation-box-details{
-  border: solid;
-  border-color: white;  
   grid-column: 1;
-  border-right: dotted;
 }
 
 .animation-box-details-2{
-  border: solid;
-  border-color: white;  
   grid-column: 2;  
-  border-left: dotted;
 }
 
 .project{
   grid-row: 2;
   padding: 15px;
-  border: solid;
-  border-color: white;  
   margin: 15px;
   width: 150px;
   height: 150px;

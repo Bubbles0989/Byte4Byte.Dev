@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\35suitowa.gif",
+      "PackagePath": "staticwebassets\\img\\35suitowa.gif"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\7suisei.gif",
+      "PackagePath": "staticwebassets\\img\\7suisei.gif"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\8towasama.gif",
+      "PackagePath": "staticwebassets\\img\\8towasama.gif"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\eyepatch_asuka_1.gif",
+      "PackagePath": "staticwebassets\\img\\eyepatch_asuka_1.gif"
+    },
+    {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\heart-balloon.svg",
       "PackagePath": "staticwebassets\\img\\heart-balloon.svg"
     },
@@ -21,8 +37,16 @@
       "PackagePath": "staticwebassets\\img\\left.svg"
     },
     {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\rei_q_reading.gif",
+      "PackagePath": "staticwebassets\\img\\rei_q_reading.gif"
+    },
+    {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\right.svg",
       "PackagePath": "staticwebassets\\img\\right.svg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\shinji_fishing_1.gif",
+      "PackagePath": "staticwebassets\\img\\shinji_fishing_1.gif"
     },
     {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\js\\site.js",

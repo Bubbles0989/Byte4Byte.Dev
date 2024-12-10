@@ -30,3 +30,5 @@
 
 This repository is a spot for my personal webbed site. Just a place to put all my information and all that. 
 
+Thank you for visiting
+

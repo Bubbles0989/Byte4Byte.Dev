@@ -272,6 +272,14 @@ body {
   padding-right: 15px;
 }
 
+.project-page{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
 .introduction-block{
   height: 350px;
   display: flex;

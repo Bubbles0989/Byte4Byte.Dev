@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LeRPlsVyTJDgHCXv/CsEJYVy33zzt5Uk/mhJO6i0WfQ=",
+  "Hash": "XXsWNbWrwJw/2iozNmVruDTfa9quMBWhxBhIAM2zj7Y=",
   "Source": "Byte4Byte-Canvas",
   "BasePath": "_content/Byte4Byte-Canvas",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\8towasama.gif"
+    },
+    {
+      "Identity": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\aqutowa.gif",
+      "SourceId": "Byte4Byte-Canvas",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\",
+      "BasePath": "_content/Byte4Byte-Canvas",
+      "RelativePath": "img/aqutowa.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\aqutowa.gif"
     },
     {
       "Identity": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\eyepatch_asuka_1.gif",

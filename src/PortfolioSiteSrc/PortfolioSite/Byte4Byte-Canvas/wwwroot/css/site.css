@@ -96,7 +96,7 @@ body {
 }
 
 .home-container {
-  gap: 10px;
+  /* gap: 10px; */
   padding-left: 15px;
   padding-top: 17px;
   padding-right: 15px;
@@ -112,20 +112,18 @@ body {
 .index-box-one {
   background-color: transparent;
   color: white;
-  border-radius: 15px;
 }
 
 .index-box-two {
   background-color: transparent;
   color: white;
-  border-radius: 15px;
 }
 
-.carousel-section {
+/* .carousel-section {
   margin-top: 100px;
   padding-right:30px;
   padding-bottom:30px;
-}
+} */
 
 .arrow {
   height: auto;
@@ -279,7 +277,12 @@ body {
   vertical-align: middle;
 }
 
-.carousel-inner img {
+/* .carousel-inner img {
   margin: auto;
-}
+} */
 
+img {
+  width:100%;
+  height:100%;
+  object-fit:contain;
+}

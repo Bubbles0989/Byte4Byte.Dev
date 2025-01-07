@@ -96,7 +96,6 @@ body {
 }
 
 .home-container {
-  /* gap: 10px; */
   padding-left: 15px;
   padding-top: 17px;
   padding-right: 15px;
@@ -118,12 +117,6 @@ body {
   background-color: transparent;
   color: white;
 }
-
-/* .carousel-section {
-  margin-top: 100px;
-  padding-right:30px;
-  padding-bottom:30px;
-} */
 
 .arrow {
   height: auto;
@@ -208,12 +201,6 @@ body {
   }
 }
 
-/* .anime-list-container{
-}
-
-.games-list-container{
-} */
-
 .details-container{
   color: white;
   display: grid;
@@ -223,6 +210,7 @@ body {
   padding-left: 15px;
   padding-top: 17px;
   padding-right: 15px;
+  height: 500px;
 }
 
 .games-info{
@@ -294,4 +282,49 @@ img {
 .aqutowa-img{
   margin:auto;
   opacity: 0.3;
+}
+
+.container {
+  position: absolute;
+  height: 300px;
+  width: 600px;
+  top: 60px;
+  left: calc(50% - 300px);
+  display: flex;
+}
+
+.card {
+  display: flex;
+  height: 280px;
+  width: 200px;
+  background-color: rgb(0,0,0,0.5);
+  border-radius: 10px;
+  box-shadow: 0rem 0 0.5rem #1f1f1f;
+/*   margin-left: -50px; */
+  transition: 0.4s ease-out;
+  position: relative;
+  left: 0px;
+}
+
+.card:not(:first-child) {
+    margin-left: -50px;
+}
+
+.card:hover {
+  transform: translateY(-20px);
+  transition: 0.4s ease-out;
+}
+
+.card:hover ~ .card {
+  position: relative;
+  left: 50px;
+  transition: 0.4s ease-out;
+}
+
+.title {
+  color: white;
+  font-weight: 300;
+  position: absolute;
+  left: 20px;
+  top: 15px;
 }

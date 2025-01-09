@@ -164,12 +164,13 @@ body {
 }
 
 .about-section-header {
-  align-self: center;
-  width: 1200px;
+  position:absolute;
 }
 
 .about-section-body {
+  margin:25%;
   align-self: center;
+  position:absolute;
 }
 
 .heart-balloon {
@@ -259,10 +260,10 @@ body {
 .introduction-block{
   height: 350px;
   display: flex;
-  text-align: center;
+  /* text-align: center;
   align-items: center;
   justify-content: center;
-  vertical-align: middle;
+  vertical-align: middle; */
 }
 
 /* .carousel-inner img {
@@ -279,7 +280,7 @@ img {
   padding-top:100px;
 }
 
-.aqutowa-img{
+.opacity-img{
   margin:auto;
   opacity: 0.3;
 }
@@ -327,4 +328,21 @@ img {
   position: absolute;
   left: 20px;
   top: 15px;
+}
+
+.index-button{
+  background-color:black;
+  color:white;
+  font-size:15px;
+  padding:10px;
+  border:0px;
+  border-radius: 2px;
+  box-shadow: 0rem 0 0.5rem #464646;
+}
+
+.shinji-gif{
+  opacity:0.5;
+  object-fit:cover;
+  object-position:100% -100px;
+  height:400px;
 }

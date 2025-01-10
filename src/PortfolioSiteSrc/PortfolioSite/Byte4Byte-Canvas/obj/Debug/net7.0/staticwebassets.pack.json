@@ -53,6 +53,14 @@
       "PackagePath": "staticwebassets\\img\\shinji_fishing_1.gif"
     },
     {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\sodamachine.gif",
+      "PackagePath": "staticwebassets\\img\\sodamachine.gif"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\triangle_mailbox.gif",
+      "PackagePath": "staticwebassets\\img\\triangle_mailbox.gif"
+    },
+    {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

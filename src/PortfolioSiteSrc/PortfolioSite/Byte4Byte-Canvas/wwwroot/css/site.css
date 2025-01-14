@@ -343,6 +343,44 @@ img {
 .shinji-gif{
   opacity:0.5;
   object-fit:cover;
-  object-position:100% -100px;
+  object-position:0% -100px;
   height:400px;
+}
+
+.details-gif{
+  opacity:0.5;
+  object-fit:cover;
+  object-position:0% -150px;
+  height:400px;
+}
+
+.projects-gif{
+  opacity:0.5;
+  object-fit:cover;
+  object-position:0% -100px;
+  height:400px;
+}
+
+.sodamachine-gif{
+  margin:auto;
+  height:100%;
+  width:auto;
+}
+
+.mailbox-gif{
+  margin:auto;
+  height:100%;
+  width:auto;
+}
+
+.text{
+  width:200px;
+}
+
+.left{
+  text-align:left;
+}
+
+.right{
+  text-align:right;
 }

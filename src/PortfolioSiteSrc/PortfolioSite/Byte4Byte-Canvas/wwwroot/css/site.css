@@ -89,13 +89,19 @@ body {
 }
 
 .content-background {
-  margin: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+  margin-top: 5%; 
   background-color: rgb(0, 0, 0, 0.5);
   border: 5px, solid, black;
   border-radius: 15px;
+  height: auto;
+  width: auto;
 }
 
 .home-container {
+  margin-top:50px;
   padding-left: 15px;
   padding-top: 17px;
   padding-right: 15px;
@@ -116,6 +122,13 @@ body {
 .index-box-two {
   background-color: transparent;
   color: white;
+}
+
+.index-box-three {
+  background-color: transparent;
+  color: white;
+  text-align:right;
+  float:right;
 }
 
 .arrow {
@@ -222,14 +235,6 @@ body {
   padding: 15px;
 }
 
-.animation-box-details{
-  grid-column: 1;
-}
-
-.animation-box-details-2{
-  grid-column: 2;  
-}
-
 .project{
   grid-row: 2;
   padding: 15px;
@@ -260,15 +265,7 @@ body {
 .introduction-block{
   height: 350px;
   display: flex;
-  /* text-align: center;
-  align-items: center;
-  justify-content: center;
-  vertical-align: middle; */
 }
-
-/* .carousel-inner img {
-  margin: auto;
-} */
 
 img {
   width:100%;
@@ -301,7 +298,6 @@ img {
   background-color: rgb(0,0,0,0.5);
   border-radius: 10px;
   box-shadow: 0rem 0 0.5rem #1f1f1f;
-/*   margin-left: -50px; */
   transition: 0.4s ease-out;
   position: relative;
   left: 0px;
@@ -363,24 +359,31 @@ img {
 
 .sodamachine-gif{
   margin:auto;
-  height:100%;
+  height:40%;
   width:auto;
 }
 
 .mailbox-gif{
   margin:auto;
-  height:100%;
+  height:40%;
   width:auto;
 }
 
 .text{
   width:200px;
+  height:auto;
 }
 
 .left{
   text-align:left;
 }
 
-.right{
+/* .right{
   text-align:right;
+  float: right;
 }
+
+.right-button{
+  float:right;
+  vertical-align:middle;
+} */

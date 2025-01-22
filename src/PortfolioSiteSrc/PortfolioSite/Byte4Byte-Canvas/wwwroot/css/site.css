@@ -105,6 +105,7 @@ body {
   padding-left: 15px;
   padding-top: 17px;
   padding-right: 15px;
+  padding-bottom: 15px;
 }
 
 .about-section {
@@ -127,8 +128,8 @@ body {
 .index-box-three {
   background-color: transparent;
   color: white;
-  text-align:right;
-  float:right;
+  text-align:center;
+  float:center;
 }
 
 .arrow {
@@ -378,12 +379,10 @@ img {
   text-align:left;
 }
 
-/* .right{
-  text-align:right;
-  float: right;
+.fade {
+  opacity: 1;
 }
 
-.right-button{
-  float:right;
-  vertical-align:middle;
-} */
+.index-gif{
+  border-radius:15px;
+}

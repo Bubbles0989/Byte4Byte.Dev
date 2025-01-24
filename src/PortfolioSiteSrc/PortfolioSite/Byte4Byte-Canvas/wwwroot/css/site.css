@@ -100,6 +100,22 @@ body {
   width: auto;
 }
 
+.content-background-fd {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+  margin-top: 5%; 
+  background-image: linear-gradient(
+        to bottom,
+        rgb(135, 201, 255, 0.5) 0%,
+        rgba(255, 255, 255, 0) 100%
+    );
+  border: 5px, solid, black;
+  border-radius: 15px;
+  height: auto;
+  width: auto;
+}
+
 .content-background-fl {
   margin-left: 15%;
   margin-right: 15%;
@@ -424,7 +440,7 @@ img {
 }
 
 .form-right{
-  transform: translateX(88%);
+  transform: translateX(84%);
 }
 
 .fade {
@@ -433,4 +449,16 @@ img {
 
 .index-gif{
   border-radius:15px;
+}
+
+.footer-section{
+  height: 50px;
+  width: auto;
+  background:rgb(135, 201, 255, 0.5);
+}
+
+.footer-contents{
+  color: white;
+  padding-left: 100px;
+  padding-top: 10px;
 }

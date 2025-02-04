@@ -452,8 +452,9 @@ img {
 }
 
 .footer-section{
+  position: absolute;
   height: 50px;
-  width: auto;
+  width: 100%;
   background:rgb(135, 201, 255, 0.5);
 }
 
@@ -461,4 +462,23 @@ img {
   color: white;
   padding-left: 100px;
   padding-top: 10px;
+}
+
+.suisei-gif{
+  height:300px;
+  width:auto;
+  border-radius: 15px;
+}
+
+.gallery-gif{
+  padding: 10px;
+  height: 200px;
+  width: auto;
+  border-radius:30px;
+}
+
+.gif-title{
+  padding-top:15px;
+  color:white;
+  text-align:center;
 }

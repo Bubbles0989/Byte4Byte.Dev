@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\15suisei.gif",
+      "PackagePath": "staticwebassets\\img\\15suisei.gif"
+    },
+    {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\35suitowa.gif",
       "PackagePath": "staticwebassets\\img\\35suitowa.gif"
     },
@@ -39,6 +43,10 @@
     {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\left.svg",
       "PackagePath": "staticwebassets\\img\\left.svg"
+    },
+    {
+      "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\oh wrow.gif",
+      "PackagePath": "staticwebassets\\img\\oh wrow.gif"
     },
     {
       "Id": "S:\\Github\\Portfolio\\Byte4Byte.Dev\\src\\PortfolioSiteSrc\\PortfolioSite\\Byte4Byte-Canvas\\wwwroot\\img\\rei_q_reading.gif",

@@ -93,7 +93,7 @@ body {
   margin-right: 15%;
   margin-bottom: 5%;
   margin-top: 5%; 
-  background-color: rgb(0, 0, 0, 0.5);
+  background-color:rgb(135, 201, 255, 0.5);
   border: 5px, solid, black;
   border-radius: 15px;
   height: auto;
@@ -273,7 +273,6 @@ body {
   padding-left: 15px;
   padding-top: 17px;
   padding-right: 15px;
-  height: 500px;
 }
 
 .games-info{
@@ -481,4 +480,14 @@ img {
   padding-top:15px;
   color:white;
   text-align:center;
+}
+
+.logos-container{
+  display:flex;
+  padding:15px;
+}
+
+.logos{
+  height:50px;
+  width:100%;
 }

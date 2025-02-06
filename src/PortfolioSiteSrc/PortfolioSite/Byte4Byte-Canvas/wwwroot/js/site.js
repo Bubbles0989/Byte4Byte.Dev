@@ -36,3 +36,19 @@ $(window).on("load",function() {
     });
   }).scroll(); //invoke scroll-handler on page-load
 });
+
+$('.gallery-gif').on('click', function() {
+  let currentSrc = $(this).attr('src');
+  let thisAlt = $(this).attr('alt');
+  navbar.classList.remove("sticky");
+  $('#galleryModal').css('display', 'block');
+  $('.modalImg').attr('src', currentSrc)
+  $('#captionText').text(thisAlt)
+})
+
+let closeButton = $('.close')
+
+closeButton.on('click', function(){
+  navbar.classList.add("sticky")
+  $('#galleryModal').css('display', 'none');
+})

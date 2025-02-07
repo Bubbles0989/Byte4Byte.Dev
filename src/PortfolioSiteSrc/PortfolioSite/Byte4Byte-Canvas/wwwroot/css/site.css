@@ -557,3 +557,8 @@ img {
   text-decoration: none;
   cursor: pointer;
 }
+
+.details-info{
+  color: white;
+  padding:15px;
+}

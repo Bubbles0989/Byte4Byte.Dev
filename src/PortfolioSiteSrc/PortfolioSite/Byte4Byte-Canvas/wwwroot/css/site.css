@@ -562,3 +562,10 @@ img {
   color: white;
   padding:15px;
 }
+
+.models-gif{
+  opacity:0.5;
+  object-fit:cover;
+  object-position:0% -200px;
+  height:400px;
+}

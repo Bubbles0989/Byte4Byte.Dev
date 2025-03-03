@@ -584,3 +584,7 @@ img {
   transform: translateY(-3px);
   transition: 0.5s;
 }
+
+.dropdown-menu{
+  background-color: rgb(0,0,0,0.5);
+}
